@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723767737554",
+    "project_id": "gotoko-e631e",
+    "storage_bucket": "gotoko-e631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723767737554:android:db4044b1c2f66ca417c10b",
+        "android_client_info": {
+          "package_name": "com.maswend.gotoko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIsnscsRdXaUBVHTHPSiaDYoUXNLRJcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
